@@ -2,8 +2,7 @@ def lsao(s):
   '''prints the longest substring of s in which the letters occur in alphabetical order. 
   For example, if s = 'azcbobobegghakl', then your program should print "beggh"
   '''
-  tmp_str = str()
-  max_str = str()
+  tmp_str, max_str = str(), str()
 
   tmp_str = s[0]
   for i in range(1,len(s)):     
