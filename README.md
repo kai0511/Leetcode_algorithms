@@ -1,2 +1,2 @@
 # algorithms
-solving data structure and algorithms problems 
+solving data structure and algorithms problems from Leetcode
